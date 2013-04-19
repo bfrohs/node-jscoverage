@@ -1,0 +1,7 @@
+{
+  "author": "",
+  "name": "node-jscoverage",
+  "version": "1.0.0",
+  "dependencies": {},
+  "description": "[JScoverage](http://siliconforks.com/jscoverage/) for node."
+}
