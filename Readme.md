@@ -4,7 +4,7 @@
 
 ## Installation
 
-    $ ./configure && make && make install
+    $ autoconf -f && ./configure && make && make install DESTDIR=. prefix=/.bin
 
   Warning: the `jscoverage` npm module published
   by someone else does _not_ work, clone this repo.
